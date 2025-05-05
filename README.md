@@ -24,7 +24,7 @@
 
 ## 🖼️ Demo
 
-> 🧪 Coming Soon: Live demo link
+> 🧪 Live Link: https://cheery-biscotti-6fa3d0.netlify.app
 
 ---
 
